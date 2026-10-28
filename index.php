@@ -8,6 +8,7 @@
     <p>Tercer cambio</p>
     
     <p>Cambio despues del merge en developer</p>
+    <p>Segundo cambio despues del merge en developer</p>
 </main>
 
 <?php include 'includes/footer.php'; ?>
