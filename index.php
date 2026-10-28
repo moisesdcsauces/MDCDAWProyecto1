@@ -6,6 +6,8 @@
     <P>Primer cambio</p>
     <p>Segundo cambio</p>
     <p>Tercer cambio</p>
+    
+    <hr>
 </main>
 
 <?php include 'includes/footer.php'; ?>
