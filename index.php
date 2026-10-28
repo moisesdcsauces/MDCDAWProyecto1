@@ -11,6 +11,8 @@
     <p>Cambio despues del merge en developer</p>
     <p>Segundo cambio despues del merge en developer</p>
     <p>Tercer cambio despues del merge en developer</p>
+    
+    <hr>
 </main>
 
 <?php include 'includes/footer.php'; ?>
