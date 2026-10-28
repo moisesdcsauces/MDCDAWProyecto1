@@ -13,6 +13,7 @@
     <p>Tercer cambio despues del merge en developer</p>
     
     <hr>
+    <p>Otro cambio</p>
 </main>
 
 <?php include 'includes/footer.php'; ?>
